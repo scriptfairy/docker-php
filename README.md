@@ -10,3 +10,13 @@ docker run php:5.6-apache
 
 3- You can browse the docker repo for PHP at https://hub.docker.com/_/php/
 
+4- Since we don't need to create a new image, therefore we don't need to create Dockerfile. Dockerfile is only needed if we need to create a new image based on the image we download.
+
+5- run the following
+
+<pre>
+chmod +x start
+chmod +x stop
+</pre>
+
+
