@@ -7,5 +7,5 @@ Create a Docker image with php and apache.
 docker run php:5.6-apache
 </pre>
 
-from https://hub.docker.com/_/php/
+3- You can browse the docker repo for PHP at https://hub.docker.com/_/php/
 
